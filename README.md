@@ -10,7 +10,7 @@ Just set your game process to high priority to increase smoothness
 Currently debian 10 is test
 
 ```
-dpkg -i linux-*.deb
-update-grub
-reboot
+$ dpkg -i linux-*.deb
+$ update-grub
+$ reboot
 ```
