@@ -1,10 +1,10 @@
 # LinuxKernel
-https://img.shields.io/badge/release-1.0-green
+release v1.0
 
 Simply install this kernel and reboot your server. you will notice fast performance of server.
 
-`dpkg -i linux-*.deb`
-
-`update-grub`
-
-`reboot`
+```
+$ dpkg -i linux-*.deb
+$ update-grub
+$ reboot
+```
