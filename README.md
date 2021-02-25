@@ -1,6 +1,6 @@
 # LinuxKernel
 
-[![GitHub release](https://img.shields.io/badge/release-1.0-blue)](https://GitHub.com/SanjaySRocks/LinuxKernel/releases/)
+[![GitHub release](https://img.shields.io/badge/release-5.11.1-blue)](https://GitHub.com/SanjaySRocks/LinuxKernel/releases/)
 
 Simply install this kernel and reboot your server. you will notice fast performance of server.
 
