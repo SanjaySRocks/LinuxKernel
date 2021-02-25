@@ -5,6 +5,7 @@
 Simply install this kernel and reboot your server. you will notice fast performance of server.
 
 It will help you in boosting fps stablity in gameservers ex: cs 1.6, csgo
+
 Just set your game process to high priority to increase smoothness
 
 Currently debian 10 is tested
