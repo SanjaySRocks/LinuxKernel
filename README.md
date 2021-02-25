@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/badge/release-5.11.1-blue)](https://GitHub.com/SanjaySRocks/LinuxKernel/releases/)
 
-##### A low latency linux kernel for servers tweaked for achieving a greater performance
+#### A low latency linux kernel for servers tweaked for achieving a greater performance
 
 Simply install this kernel and reboot your server
 
