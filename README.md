@@ -4,9 +4,9 @@
 
 Simply install this kernel and reboot your server
 
-you will notice fast performance
+You will notice fast performance
 
-It will help you in boosting fps stablity in gameservers ex: cs 1.6, csgo
+It will help you in boosting fps stablity (gameservers) ex: cs 1.6, csgo
 
 Just set your game process to high priority to increase smoothness
 
