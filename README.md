@@ -1,4 +1,4 @@
-# LinuxKernel
+# Linux Kernel
 
 [![GitHub release](https://img.shields.io/badge/release-5.11.1-blue)](https://GitHub.com/SanjaySRocks/LinuxKernel/releases/)
 
