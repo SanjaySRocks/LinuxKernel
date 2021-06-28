@@ -1,19 +1,15 @@
 # Linux Kernel
 
-[![GitHub release](https://img.shields.io/badge/release-5.11.1-blue)](https://GitHub.com/SanjaySRocks/LinuxKernel/releases/)
+[![GitHub release](https://img.shields.io/badge/release-5.13.0-blue)](https://GitHub.com/SanjaySRocks/LinuxKernel/releases/)
 
-#### A low latency linux kernel for servers tweaked for achieving a greater performance (1000HZ Boosted)
+#### A Low latency kernel for linux servers highly tweaked ( 1000HZ Boosted )
 
-Simply install this kernel and reboot your server
-
-You will notice fast performance with this kernel
+Simply install the kernel and reboot your server
 
 
 #### For GameServers:-
 
-It will help you in fps boosting & stablity ex: cs 1.6, csgo
-
-Just set your game process to high priority to increase smoothness
+Set Game Server Nice value to -19 or -20 for extra smoothness
 
 Currently Supported OS
 | linux        | version           | supported  |
