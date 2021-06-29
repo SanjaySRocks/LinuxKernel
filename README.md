@@ -7,9 +7,7 @@
 Simply install the kernel and reboot your server
 
 #### Installation:-
-```
-$ wget https://github.com/SanjaySRocks/LinuxKernel/releases/download/v5.13.0/linux-5.13.0.tar.gz && tar xvzf linux-5.13.0.tar.gz
-```
+
 ```
 $ dpkg -i linux-*.deb
 $ update-grub
