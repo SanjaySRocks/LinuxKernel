@@ -11,6 +11,7 @@ Simply install the kernel and reboot your server
 ```
 $ dpkg -i linux-*.deb
 $ update-grub
+$ apt-get install tuned -y && tuned-adm profile latency-performance
 ```
 
 ```
