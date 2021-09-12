@@ -1,6 +1,6 @@
 # Linux Kernel
 
-[![GitHub release](https://img.shields.io/badge/release-5.13.0-blue)](https://GitHub.com/SanjaySRocks/LinuxKernel/releases/)
+[![GitHub release](https://img.shields.io/badge/release-5.14.3-blue)](https://GitHub.com/SanjaySRocks/LinuxKernel/releases/)
 
 #### A Low latency kernel for linux servers highly tweaked ( 1000HZ Boosted )
 
